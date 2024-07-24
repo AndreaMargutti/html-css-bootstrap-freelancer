@@ -1,3 +1,5 @@
+/* # Generals */
+
 header {
     height: 100px;
     background-color: #2C3E50;
@@ -10,4 +12,22 @@ a {
 ul {
     list-style-type: none;
     margin: 0;
+}
+
+figure {
+    margin: 0;
+}
+
+/* # Utilities */
+
+.bg-green {
+    background-color: #1ABC9C;
+}
+
+.h-500 {
+    height: 500px;
+}
+
+.col {
+    border: 1px solid dodgerblue;
 }
