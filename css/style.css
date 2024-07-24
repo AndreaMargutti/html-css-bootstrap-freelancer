@@ -10,8 +10,10 @@ a {
 }
 
 ul {
-    list-style-type: none;
+    list-style: none;
+    list-style-position: outside;
     margin: 0;
+    padding: 0;
 }
 
 /* # Utilities */
@@ -26,6 +28,10 @@ ul {
 
 .h-300 {
     height: 300px;
+}
+
+.h-200 {
+    height: 200px;
 }
 
 .bd-blue {
