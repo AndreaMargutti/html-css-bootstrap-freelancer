@@ -14,10 +14,6 @@ ul {
     margin: 0;
 }
 
-figure {
-    margin: 0;
-}
-
 /* # Utilities */
 
 .bg-green {
@@ -28,12 +24,10 @@ figure {
     height: 500px;
 }
 
-.h-130 {
-    height: 130px;
+.h-300 {
+    height: 300px;
 }
 
 .bd-blue {
     border: 5px solid dodgerblue;
 }
-
-/* # Porfolio */
