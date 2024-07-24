@@ -28,6 +28,10 @@ figure {
     height: 500px;
 }
 
-.col {
-    border: 1px solid dodgerblue;
+.h-130 {
+    height: 130px;
+}
+
+.bd-blue {
+    border: 10px solid dodgerblue;
 }
