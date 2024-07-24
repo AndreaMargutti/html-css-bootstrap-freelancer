@@ -1,0 +1,13 @@
+header {
+    height: 100px;
+    background-color: #2C3E50;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+}
