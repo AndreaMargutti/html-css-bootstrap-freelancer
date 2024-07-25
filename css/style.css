@@ -56,6 +56,11 @@ ul {
     min-width: 60px
 }
 
+#contact ::placeholder {
+    color: black;
+    font-weight: bold;
+}
+
 /* # Jumbo */
 
 #jumbo img {
@@ -67,4 +72,12 @@ ul {
 #portfolio img {
     width: 100%;
     padding: 20px
+}
+
+/* # Contact Me */
+
+#contact .form-control {
+    border: 0;
+    border-bottom: 1px solid #CCCCCC;
+    padding-left: 0;
 }
