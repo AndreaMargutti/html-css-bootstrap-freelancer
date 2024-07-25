@@ -22,17 +22,13 @@ ul {
     background-color: #1ABC9C;
 }
 
-.h-100p {
+/* .h-100p {
     min-height: 100px;
-}
+} */
 
-.h-50 {
-    min-height: 50px;
-}
-
-.bd-blue {
+/* .bd-blue {
     border: 5px solid dodgerblue;
-}
+} */
 
 .text-dark-blue {
     color: #2C3E50;
@@ -48,15 +44,20 @@ ul {
     min-width: 60px
 }
 
-#contact ::placeholder {
-    color: black;
-    font-weight: bold;
+.btn-lightgreen {
+    color: white;
+    background-color: #1ABC9C;
 }
 
 /* # Jumbo */
 
 #jumbo img {
-    width: 30%;
+    width: 20%;
+    margin-bottom: 10px;
+}
+
+#jumbo h3 {
+    font-size: 20px;
 }
 
 /* # Portfolio */
@@ -67,6 +68,11 @@ ul {
 }
 
 /* # Contact Me */
+
+#contact ::placeholder {
+    color: black;
+    font-weight: bold;
+}
 
 #contact .form-control {
     border: 0;
