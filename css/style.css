@@ -18,12 +18,16 @@ ul {
 
 /* # Utilities */
 
+section {
+    padding: 20px 0;
+}
+
 .bg-green {
     background-color: #1ABC9C;
 }
 
-.h-500 {
-    height: 500px;
+.h-100p {
+    min-height: 100px;
 }
 
 .h-300 {
@@ -34,6 +38,37 @@ ul {
     height: 200px;
 }
 
+.h-50 {
+    min-height: 50px;
+}
+
 .bd-blue {
     border: 5px solid dodgerblue;
+}
+
+.text-dark-blue {
+    color: #2C3E50;
+}
+
+.bd-white {
+    border-bottom: 5px solid white;
+    min-width: 60px
+}
+
+.bd-dark-blue {
+    border-bottom: 5px solid #2C3E50;
+    min-width: 60px
+}
+
+/* # Jumbo */
+
+#jumbo img {
+    width: 30%;
+}
+
+/* # Portfolio */
+
+#portfolio img {
+    width: 100%;
+    padding: 20px
 }
