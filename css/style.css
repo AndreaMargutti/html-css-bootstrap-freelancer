@@ -18,10 +18,6 @@ ul {
 
 /* # Utilities */
 
-section {
-    padding: 20px 0;
-}
-
 .bg-green {
     background-color: #1ABC9C;
 }
