@@ -26,14 +26,6 @@ ul {
     min-height: 100px;
 }
 
-.h-300 {
-    height: 300px;
-}
-
-.h-200 {
-    height: 200px;
-}
-
 .h-50 {
     min-height: 50px;
 }
@@ -80,4 +72,14 @@ ul {
     border: 0;
     border-bottom: 1px solid #CCCCCC;
     padding-left: 0;
+}
+
+/* # Footer */
+
+footer {
+    background-color: #3A546D;
+}
+
+.ft-bottom {
+    background-color: #2C3E50;
 }
